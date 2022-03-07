@@ -1,5 +1,6 @@
 pandas
 numpy
+libpython3.7
 pysindy
 dearpygui==0.6.415
 
