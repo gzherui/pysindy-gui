@@ -7,6 +7,9 @@ A graphical user interface for [PySINDy](https://github.com/dynamicslab/pysindy)
 
 ## Tutorial
 
+Not working with Python 3.10
+Best to create new env
+
 To start the GUI:
 ```
 git clone https://github.com/hyumo/pysindy-gui.git
